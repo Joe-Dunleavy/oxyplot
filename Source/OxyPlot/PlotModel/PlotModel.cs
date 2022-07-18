@@ -110,7 +110,7 @@ namespace OxyPlot
             this.TitleColor = OxyColors.Automatic;
             this.SubtitleColor = OxyColors.Automatic;
 
-            this.DefaultFont = "Segoe UI";
+            this.DefaultFont = null;
             this.DefaultFontSize = 12;
 
             this.TitleToolTip = null;
